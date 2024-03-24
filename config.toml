@@ -1,0 +1,11 @@
+[serviceweaver]
+binary = "./emojis"
+
+[single]
+listeners.emojis = {address = "localhost:9000"}
+
+[multi]
+listeners.emojis = {address = "localhost:9000"}
+
+["emojis/ChatGPT"]
+api_key = "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"
