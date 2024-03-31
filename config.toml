@@ -8,4 +8,4 @@ listeners.emojis = {address = "localhost:9000"}
 listeners.emojis = {address = "localhost:9000"}
 
 ["emojis/ChatGPT"]
-api_key = "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"
+api_key = " "
